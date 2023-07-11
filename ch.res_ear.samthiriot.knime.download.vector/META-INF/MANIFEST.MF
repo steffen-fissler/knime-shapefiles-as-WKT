@@ -8,7 +8,7 @@ Export-Package: ch.res_ear.samthiriot.knime.download.vector,
  ch.res_ear.samthiriot.knime.download.vector.read_from_geofabrik,
  ch.res_ear.samthiriot.knime.download.vector.read_from_geofabrik
 Require-Bundle: org.eclipse.ui;bundle-version="3.0.0",
- org.knime.core;bundle-version="4.6.0",
+ org.knime.core;bundle-version="[5.1.0,6.0.0)",
  org.apache.commons.io;bundle-version="2.8.0",
  org.json,
  org.junit;bundle-version="4.0.0",
